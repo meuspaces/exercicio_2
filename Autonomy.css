@@ -1,0 +1,39 @@
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.menu{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    align-items: right;
+    background-color:#180e0b;
+    padding: 20px; 
+    justify-content: space-between;
+}
+
+.menu li{
+    display: inline;
+    margin-right: 40px;
+    text-decoration: none;
+}
+.menu a{
+    align-items: right;
+    text-decoration: none;
+    color: white;
+}
+
+.Imag{
+    display: inline-block;
+    padding: 10px;
+    width: 15px;
+}
+
+.trilho{
+    display: inline-block;
+    padding: 10px;
+    width: 15px;
+}
+
+
